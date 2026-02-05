@@ -6,7 +6,7 @@ The project focuses on analyzing customer financial behavior, predicting delinqu
 
 ---
 
-## 🚀 Project Overview
+## Project Overview
 
 Financial institutions rely heavily on early detection of delinquency to reduce losses and support customers in financial distress.
 
@@ -21,19 +21,19 @@ This repository includes all reports, analysis outputs, and the final presentati
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```
-📁 geldium-ai-collections-project
+ geldium-ai-collections-project
 │
-├── 📁 Raw Data
+├──  Raw Data
 │     └── Delinquency_prediction_dataset.xlsx
 │
-├── 📁 Reference Notes
+├──  Reference Notes
 │     ├── Imputation_Guide_Handout.docx
 │     └── Tata_Data_Analytics_Glossary.docx
 │
-├── 📁 Reports
+├──  Reports
 │     ├── Task 1_EDA_SummaryReport.docx
 │     ├── Task 2_ModelPlan.docx
 │     ├── Task 3_Business_Summary_Report.docx
@@ -44,7 +44,7 @@ This repository includes all reports, analysis outputs, and the final presentati
 
 ---
 
-## 📊 Task 1 — Exploratory Data Analysis (EDA)
+## Task 1 — Exploratory Data Analysis (EDA)
 
 ### **Objectives**
 - Identify useful datasets for delinquency prediction  
@@ -59,7 +59,7 @@ This repository includes all reports, analysis outputs, and the final presentati
 
 ---
 
-## 🤖 Task 2 — Predictive Model Planning
+## Task 2 — Predictive Model Planning
 
 ### **Objectives**
 - Use GenAI to outline the predictive modeling pipeline  
@@ -74,7 +74,7 @@ This repository includes all reports, analysis outputs, and the final presentati
 
 ---
 
-## 📝 Task 3 — Executive Business Summary
+## Task 3 — Executive Business Summary
 
 ### **Objectives**
 - Create a concise report for the Head of Collections  
@@ -90,7 +90,7 @@ This repository includes all reports, analysis outputs, and the final presentati
 
 ---
 
-## 🧠 Task 4 — AI-Powered Collections Strategy (PPT)
+## Task 4 — AI-Powered Collections Strategy (PPT)
 
 ### **Objectives**
 - Design a high-level AI-driven collections ecosystem  
@@ -106,7 +106,7 @@ This repository includes all reports, analysis outputs, and the final presentati
 
 ---
 
-## 🔧 Skills Demonstrated
+## Skills Demonstrated
 
 - Exploratory Data Analysis (EDA)  
 - Predictive modeling reasoning  
@@ -118,9 +118,9 @@ This repository includes all reports, analysis outputs, and the final presentati
 
 ---
 
-## 📬 Contact
+## Contact
 
 If you’d like to discuss the project, collaborate, or explore opportunities:
 
-**LinkedIn:** _Add your profile link here_  
-**Email:** _Add your preferred email here_
+**LinkedIn:** https://www.linkedin.com/in/vemuru-vinay 
+**Email:** vemuruvinayreddy@gmail.com
