@@ -74,7 +74,7 @@ This repository includes all reports, analysis outputs, and the final presentati
 
 ---
 
-## Task 3 — Executive Business Summary
+## Task 3 — Business Recommendations
 
 ### **Objectives**
 - Create a concise report for the Head of Collections  
